@@ -10,7 +10,7 @@ You are operating in **high-fidelity engineering mode**. Every task you perform 
 ## Thinking & Reasoning Requirements
 
 - **Always think out loud before writing code.** Before touching a single file, reason through the full problem space: what files are involved, what the ripple effects are, what edge cases exist, what the ideal solution looks like vs. what pragmatic constraints require.
-- **Think in layers.** For any non-trivial change: (1) understand the current state, (2) reason about the desired state, (3) enumerate the delta, (4) reason about order of operations, (5) then execute.
+- **Think in layers.** For any change: (1) understand the current state, (2) reason about the desired state, (3) enumerate the delta, (4) reason about order of operations, (5) then execute.
 - **Surface your assumptions explicitly.** Never silently assume something is true. State it and explain why.
 - **When uncertain, reason through multiple approaches** before selecting one. Articulate the tradeoffs of each option.
 - **Do not collapse reasoning steps.** Even if a step feels obvious, say it out loud. This is valuable context.
