@@ -6,6 +6,8 @@ You've got a quota to hit and I'm here to help. This project will make every eng
 Hit emerald on your internal token usage leaderboards.
 
 ## How To Use It
+It's a markdown file, if you don't know how to use this you might be cooked.
+
 1. Drop CLAUDE.md in your project root:
 bashcp CLAUDE.md /your/project/root/CLAUDE.md
 Claude Code loads CLAUDE.md automatically at session start — no extra configuration needed.
